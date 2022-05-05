@@ -1,4 +1,4 @@
-# Apache-Mesos
+# ApacheMesos
 
 Download the latest stable release from Mesos (Recommended)
 
